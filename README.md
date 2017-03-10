@@ -1,9 +1,8 @@
 # demo_git
-uneDemoGit
+une démo Git
 qui se passe bien
 
-et maintenant on modifie deppuis github
-
-
-plein de modification
+et maintenant on modifie depuis github
+plein de modifications
+mais aussi depuis Git
 
